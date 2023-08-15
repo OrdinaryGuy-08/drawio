@@ -1,9 +1,453 @@
-<mxfile host="app.diagrams.net" modified="2023-08-15T11:05:34.748Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" version="21.6.8" etag="39OLPkmhfHedhMy5f6ts" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-15T11:07:02.544Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="WoNWd38TRcWugarpNmWL" version="21.6.8" type="github">
   <diagram name="第 1 页" id="3yYCxlaRxzgi1qt_8z8O">
-    <mxGraphModel>
+    <mxGraphModel dx="1275" dy="850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2880" y="3355" width="1180" height="1350" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2820" y="2090" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2820" y="2130" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2820" y="2170" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2820" y="2210" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2820" y="2250" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2820" y="2290" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2820" y="2330" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2820" y="2370" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2820" y="2410" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-11" value="&lt;div style=&quot;font-size: 15px; line-height: 24px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;font color=&quot;#010913&quot; style=&quot;font-size: 15px;&quot;&gt;thread_group.next&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2820" y="2450" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-12" value="thread_group.prev" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2820" y="2490" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;curved=1;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="sxAQl4Ctim2oKRVj0ZlB-14" target="sxAQl4Ctim2oKRVj0ZlB-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3320" y="2550" />
+              <mxPoint x="3320" y="2850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-14" value="task.next" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2820" y="2530" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;curved=1;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="sxAQl4Ctim2oKRVj0ZlB-16" target="sxAQl4Ctim2oKRVj0ZlB-73">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2530" y="2590" />
+              <mxPoint x="2530" y="2870" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-16" value="task.prev" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2820" y="2570" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3140" y="3430" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3140" y="3470" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3140" y="3510" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3140" y="3550" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3140" y="3590" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3140" y="3630" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3140" y="3670" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3140" y="3710" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3140" y="3750" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;curved=1;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="sxAQl4Ctim2oKRVj0ZlB-27" target="sxAQl4Ctim2oKRVj0ZlB-93">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3380" y="3810" />
+              <mxPoint x="3380" y="4330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-27" value="&lt;div style=&quot;font-size: 15px; line-height: 24px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;font color=&quot;#010913&quot; style=&quot;font-size: 15px;&quot;&gt;thread_group.next&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3140" y="3790" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;curved=1;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="sxAQl4Ctim2oKRVj0ZlB-29" target="sxAQl4Ctim2oKRVj0ZlB-106">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2930" y="3850" />
+              <mxPoint x="2930" y="4490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-29" value="thread_group.prev" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3140" y="3830" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;curved=1;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="sxAQl4Ctim2oKRVj0ZlB-31" target="sxAQl4Ctim2oKRVj0ZlB-60">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2740" y="3880" />
+              <mxPoint x="2740" y="3660" />
+              <mxPoint x="2880" y="3660" />
+              <mxPoint x="2880" y="3410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-31" value="task.next" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3140" y="3870" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-32" value="task.prev" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3140" y="3910" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3430" y="2370" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3430" y="2410" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-35" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3430" y="2450" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3430" y="2490" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3430" y="2530" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3430" y="2570" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-39" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3430" y="2610" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3430" y="2650" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-41" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3430" y="2690" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-42" value="&lt;div style=&quot;font-size: 15px; line-height: 24px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;font color=&quot;#010913&quot; style=&quot;font-size: 15px;&quot;&gt;thread_group.next&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3430" y="2730" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-43" value="thread_group.prev" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3430" y="2770" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-44" value="task.next" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3430" y="2810" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;curved=1;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="sxAQl4Ctim2oKRVj0ZlB-46" target="sxAQl4Ctim2oKRVj0ZlB-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3225" y="2870" />
+              <mxPoint x="3225" y="2570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-46" value="task.prev" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3430" y="2850" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-47" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2570" y="2930" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-48" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2570" y="2970" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-49" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2570" y="3010" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-50" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2570" y="3050" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-51" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2570" y="3090" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-52" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2570" y="3130" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-53" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2570" y="3170" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-54" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2570" y="3210" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-55" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2570" y="3250" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-56" value="&lt;div style=&quot;font-size: 15px; line-height: 24px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;font color=&quot;#010913&quot; style=&quot;font-size: 15px;&quot;&gt;thread_group.next&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2570" y="3290" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-57" value="thread_group.prev" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2570" y="3330" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;curved=1;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="sxAQl4Ctim2oKRVj0ZlB-59" target="sxAQl4Ctim2oKRVj0ZlB-72">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2150" y="3390" />
+              <mxPoint x="2150" y="2870" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-59" value="task.next" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2570" y="3370" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-60" value="task.prev" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2570" y="3410" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-61" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; line-height: 24px;&quot;&gt;state&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;fillColor=none;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="2240" y="2390" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-62" value="void *stack" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2240" y="2430" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-63" value="thread_info" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2240" y="2470" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-64" value="mm_struct" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2240" y="2510" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-65" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font color=&quot;#151414&quot;&gt;struct&lt;span style=&quot;font-size: 14px;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;border: 0px solid rgb(217, 217, 227); box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; font-size: 14px;&quot; class=&quot;hljs-title&quot;&gt;sched_class&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt; *&lt;/span&gt;&lt;span style=&quot;border: 0px solid rgb(217, 217, 227); box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; font-size: 14px;&quot; class=&quot;hljs-title&quot;&gt;sched_class&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2240" y="2550" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-66" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2240" y="2590" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-67" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2240" y="2630" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-68" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2240" y="2670" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-69" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2240" y="2710" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-70" value="&lt;div style=&quot;font-size: 15px; line-height: 24px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;font color=&quot;#010913&quot; style=&quot;font-size: 15px;&quot;&gt;thread_group.next&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2240" y="2750" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-71" value="thread_group.prev" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2240" y="2790" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-72" value="task.next" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;labelBorderColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2240" y="2830" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-73" value="task.prev" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;labelBorderColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2240" y="2870" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-74" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;init_task&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2970" y="2040" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-75" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="sxAQl4Ctim2oKRVj0ZlB-44" target="sxAQl4Ctim2oKRVj0ZlB-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3740" y="3410" as="sourcePoint" />
+            <mxPoint x="3790" y="3360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3870" y="2840" />
+              <mxPoint x="3790" y="3410" />
+              <mxPoint x="3540" y="3760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-76" value="Process 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;fontStyle=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3477" y="2320" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-77" value="Process 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;fontStyle=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3185" y="3370" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-78" value="Process 3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;fontStyle=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2610" y="2870" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-79" value="Process 4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;fontStyle=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2280" y="2340" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-80" value="Process 0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;fontStyle=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="2840" y="2040" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-81" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3430" y="3930" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-82" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3430" y="3970" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-83" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3430" y="4010" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-84" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3430" y="4050" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-85" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3430" y="4090" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-86" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3430" y="4130" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-87" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3430" y="4170" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-88" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3430" y="4210" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-89" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3430" y="4250" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;curved=1;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="sxAQl4Ctim2oKRVj0ZlB-91" target="sxAQl4Ctim2oKRVj0ZlB-111">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3700" y="4310" />
+              <mxPoint x="3700" y="4570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-91" value="&lt;div style=&quot;font-size: 15px; line-height: 24px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;font color=&quot;#010913&quot; style=&quot;font-size: 15px;&quot;&gt;thread_group.next&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3430" y="4290" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;curved=1;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="sxAQl4Ctim2oKRVj0ZlB-93" target="sxAQl4Ctim2oKRVj0ZlB-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3650" y="4350" />
+              <mxPoint x="3650" y="3830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-93" value="thread_group.prev" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3430" y="4330" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-94" value="task.next" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3430" y="4370" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-95" value="task.prev" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3430" y="4410" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-96" value="thread 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;fontStyle=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3480" y="3870" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-97" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3060" y="4090" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-98" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3060" y="4130" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-99" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3060" y="4170" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-100" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3060" y="4210" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-101" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3060" y="4250" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-102" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3060" y="4290" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-103" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3060" y="4330" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-104" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3060" y="4370" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-105" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3060" y="4410" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-106" value="&lt;div style=&quot;font-size: 15px; line-height: 24px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;font color=&quot;#010913&quot; style=&quot;font-size: 15px;&quot;&gt;thread_group.next&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3060" y="4450" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;curved=1;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="sxAQl4Ctim2oKRVj0ZlB-108" target="sxAQl4Ctim2oKRVj0ZlB-93">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3260" y="4540" />
+              <mxPoint x="3770" y="4540" />
+              <mxPoint x="3770" y="4330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-108" value="thread_group.prev" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3060" y="4490" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;curved=1;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="sxAQl4Ctim2oKRVj0ZlB-110" target="sxAQl4Ctim2oKRVj0ZlB-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2980" y="4550" />
+              <mxPoint x="2980" y="3830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-110" value="task.next" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3060" y="4530" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-111" value="task.prev" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3060" y="4570" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-112" value="thread 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;fontStyle=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="3110" y="4030" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="sxAQl4Ctim2oKRVj0ZlB-114" target="sxAQl4Ctim2oKRVj0ZlB-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-114" value="stuct list_head task&amp;nbsp; 链表表示进程&lt;br style=&quot;border-color: var(--border-color); font-size: 19px;&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;strict list_head thread_group 表示线程组&lt;/span&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;br style=&quot;font-size: 19px;&quot;&gt;1、next_task()宏 :&amp;nbsp; &amp;nbsp;用于遍历下一个进程的task_struct&lt;br style=&quot;border-color: var(--border-color); padding: 0px; margin: 0px; font-size: 19px;&quot;&gt;#define next_task(p) \&lt;br style=&quot;border-color: var(--border-color); padding: 0px; margin: 0px; font-size: 19px;&quot;&gt;&amp;nbsp; list_entry_rcu((p)-&amp;gt;tasks.next, struct task_struct, tasks&lt;br style=&quot;font-size: 19px;&quot;&gt;&lt;br style=&quot;font-size: 19px;&quot;&gt;2、next_thead() 宏:用于遍历下一个线程的task_struct&lt;br style=&quot;font-size: 19px;&quot;&gt;&lt;/font&gt;&lt;div style=&quot;line-height: 24px; font-size: 19px;&quot;&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;static inline struct task_struct *next_thread(const struct task_struct *p)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;{&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&amp;nbsp; return list_entry_rcu(p-&amp;gt;thread_group.next,&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; struct task_struct, thread_group);&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;}&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;br style=&quot;font-size: 19px;&quot;&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;3、扫描线程和进程&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;for_each_process(p)用于扫描系统中的所有进程。这个宏从init_task开始遍历，一直遍历到init_task为止&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;for_each_process_thread()遍历所有线程&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;br style=&quot;font-size: 19px;&quot;&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;div style=&quot;line-height: 24px; font-size: 19px;&quot;&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;#define for_each_process(p) \&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&amp;nbsp; for (p = &amp;amp;init_task ; (p = next_task(p)) != &amp;amp;init_task ; )&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;div style=&quot;line-height: 24px; font-size: 19px;&quot;&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;#define for_each_process_thread(p, t) \&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&amp;nbsp; for_each_process(p) for_each_thread(p, t)&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=0;fontSize=19;labelBackgroundColor=none;fontFamily=Helvetica;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="4080" y="2140" width="940" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-115" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="sxAQl4Ctim2oKRVj0ZlB-116" target="sxAQl4Ctim2oKRVj0ZlB-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-116" value="&lt;code style=&quot;border: 0px solid rgb(217, 217, 227); box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; font-size: 0.875em; color: var(--tw-prose-code); font-weight: 600; background-color: rgb(247, 247, 248); font-family: &amp;quot;Söhne Mono&amp;quot;, Monaco, &amp;quot;Andale Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, monospace !important;&quot;&gt;thread_info&lt;/code&gt; 是其中一个字段，它包含了与特定线程相关的信息，&lt;br&gt;相关字段解释：&lt;br&gt;&lt;div&gt;`thread_info` 结构体包含了以下一些重要的字段：&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. `task`: 指向包含线程信息的 `task_struct` 结构体的指针。这允许内核通过 `thread_info` 结构找到与之关联的整个 `task_struct` 数据。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. `cpu`: 表示线程所在的 CPU 核心编号。这对于线程的调度和处理器亲和性很重要，使得内核可以更好地决定将线程调度到哪个核心上执行。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. `preempt_count`: 一个计数器，用于跟踪内核抢占（preemption）操作的数量。在内核中，抢占是指强制中断当前正在运行的任务，然后转而执行其他任务。`preempt_count` 的增加表示当前线程不希望被抢占，从而可以在一些关键代码段中防止被中断。当计数器归零时，线程可以被抢占。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. `addr_limit`: 一个内存地址限制，用于确保线程只能访问其地址空间内的合法内存范围。这是一种安全机制，用于防止线程访问不属于自己的内存区域。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. `flags`: 包含一些标志位，用于表示线程的状态和属性。例如，这些标志可以表示线程是否在用户态运行、是否在系统调用中等。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;总之，`thread_info` 结构体存储了与线程相关的关键信息，帮助内核进行线程调度、内存访问控制和抢占等操作。这些信息有助于操作系统管理并执行多个线程，以实现并发和多任务处理。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;使用方式参考&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 229, 153);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 229, 153);&quot;&gt;#include &amp;lt;linux/sched.h&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 229, 153);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 229, 153);&quot;&gt;void process_thread_info(void) {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 229, 153);&quot;&gt;&amp;nbsp; &amp;nbsp; struct thread_info *ti;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 229, 153);&quot;&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 229, 153);&quot;&gt;&amp;nbsp; &amp;nbsp; // 获取当前线程的 thread_info 结构&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 229, 153);&quot;&gt;&amp;nbsp; &amp;nbsp; ti = current_thread_info();&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 229, 153);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 229, 153);&quot;&gt;&amp;nbsp; &amp;nbsp; // 获取当前线程的 CPU 核心编号&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 229, 153);&quot;&gt;&amp;nbsp; &amp;nbsp; int cpu = ti-&amp;gt;cpu;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 229, 153);&quot;&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 229, 153);&quot;&gt;&amp;nbsp; &amp;nbsp; // 获取当前线程的地址限制&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 229, 153);&quot;&gt;&amp;nbsp; &amp;nbsp; unsigned long addr_limit = ti-&amp;gt;addr_limit;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 229, 153);&quot;&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 229, 153);&quot;&gt;&amp;nbsp; &amp;nbsp; // 获取当前线程的状态标志&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 229, 153);&quot;&gt;&amp;nbsp; &amp;nbsp; unsigned long flags = ti-&amp;gt;flags;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 229, 153);&quot;&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 229, 153);&quot;&gt;&amp;nbsp; &amp;nbsp; // 进行一些处理，例如打印获取到的信息&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 229, 153);&quot;&gt;&amp;nbsp; &amp;nbsp; printk(&quot;Thread on CPU: %d\n&quot;, cpu);&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 229, 153);&quot;&gt;&amp;nbsp; &amp;nbsp; printk(&quot;Address Limit: 0x%lx\n&quot;, addr_limit);&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 229, 153);&quot;&gt;&amp;nbsp; &amp;nbsp; printk(&quot;Thread Flags: 0x%lx\n&quot;, flags);&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 229, 153);&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="530" y="40" width="360" height="835" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="sxAQl4Ctim2oKRVj0ZlB-118" target="sxAQl4Ctim2oKRVj0ZlB-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-118" value="state: 记录进程状态，&lt;br&gt;&lt;div&gt;在 Linux 内核的 `task_struct` 结构体中，`state` 字段用于表示进程或线程的当前状态。`state` 字段是一个位掩码，通过设置不同的位可以表示不同的状态。这些状态用于指示进程或线程当前正在执行的操作、是否准备好运行、是否被阻塞等等。以下是一些可能的状态标志：&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. `TASK_RUNNING`: 表示进程正在运行或准备运行。如果这个标志被设置，表示进程当前正在 CPU 上执行。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. `TASK_INTERRUPTIBLE`: 表示进程处于可中断的等待状态。进程在这种状态下等待某个事件的发生，例如等待 I/O 完成。当事件发生时，进程可以被唤醒继续执行。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. `TASK_UNINTERRUPTIBLE`: 类似于 `TASK_INTERRUPTIBLE`，但是进程在这种状态下不能被中断。这意味着即使在接收到信号的情况下，进程也不会被唤醒。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. `TASK_STOPPED`: 表示进程已被暂停。这通常发生在进程接收到 `SIGSTOP` 或 `SIGTSTP` 信号时，进程会暂停执行。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. `TASK_TRACED`: 表示进程被其他进程跟踪。通常在调试程序时会使用这个状态。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. `TASK_DEAD`: 表示进程已经结束，但其描述符还未释放。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7. `TASK_ZOMBIE`: 表示进程已经结束，并且其描述符已经释放，但是父进程还没有来得及处理它，因此它被保留在系统中。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;8. `TASK_IDLE`: 表示进程是系统的空闲进程，当没有其他进程可运行时会执行空闲任务。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;9. `TASK_WAKEKILL`: 表示进程正在等待被唤醒，但如果被信号唤醒，则会被终止。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;rounded=0;glass=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1290" width="1470" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="sxAQl4Ctim2oKRVj0ZlB-120" target="sxAQl4Ctim2oKRVj0ZlB-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-120" value="&lt;div&gt;在 Linux 内核中，`mm_struct` 是一个非常重要的数据结构，用于管理进程的内存布局和虚拟地址空间。每个进程都有一个关联的 `mm_struct` 结构，它包含了描述进程虚拟内存布局的信息，如代码段、数据段、堆、栈等。这个结构在进程的上下文切换和内存管理中起着关键的作用。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`mm_struct` 结构体的一些重要字段包括：&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. `pgd`: 进程的页全局目录（Page Global Directory），用于虚拟地址到物理地址的映射。它是一个指向一维数组的指针，其中的元素存储了页表项的信息。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. `start_code` 和 `end_code`: 表示进程代码段在虚拟地址空间中的起始地址和结束地址。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. `start_data` 和 `end_data`: 表示进程数据段在虚拟地址空间中的起始地址和结束地址。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. `start_brk` 和 `brk`: 表示进程堆（heap）在虚拟地址空间中的起始地址和当前的结束地址。堆用于动态内存分配。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. `start_stack`: 进程的栈在虚拟地址空间中的起始地址。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. `mmap`: 一个指向链表的指针，用于管理进程使用的内存映射区域（mmap 区域）。每个映射区域都包含了一些信息，如起始地址、大小、权限等。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7. `cached_hole`: 用于内存管理的优化，表示在虚拟地址空间中一些空白区域的起始地址。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`mm_struct` 结构还包含其他一些字段，用于管理内存页的计数、锁定状态等。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;这个数据结构的存在使得每个进程能够在虚拟地址空间中有自己独立的内存布局，同时操作系统可以通过这个结构来管理内存映射、内存页的分配和回收，以及虚拟内存到物理内存的映射关系。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;请注意，内核源代码中的 `mm_struct` 结构以及与之相关的内存管理代码相当复杂，因为它涉及到了内存的分页、映射、管理等一系列复杂的操作。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 244, 195);&quot;&gt;#include &amp;lt;linux/mm_types.h&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 244, 195);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 244, 195);&quot;&gt;// 假设这是一个创建新进程的函数&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 244, 195);&quot;&gt;struct task_struct *create_new_process(void) {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 244, 195);&quot;&gt;&amp;nbsp; &amp;nbsp; struct task_struct *new_task;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 244, 195);&quot;&gt;&amp;nbsp; &amp;nbsp; struct mm_struct *new_mm;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 244, 195);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 244, 195);&quot;&gt;&amp;nbsp; &amp;nbsp; // 分配内存用于新的 task_struct 和 mm_struct&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 244, 195);&quot;&gt;&amp;nbsp; &amp;nbsp; new_task = allocate_task_struct();&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 244, 195);&quot;&gt;&amp;nbsp; &amp;nbsp; new_mm = allocate_mm_struct();&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 244, 195);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 244, 195);&quot;&gt;&amp;nbsp; &amp;nbsp; // 初始化 mm_struct 的字段&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 244, 195);&quot;&gt;&amp;nbsp; &amp;nbsp; new_mm-&amp;gt;pgd = allocate_page_directory();&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 244, 195);&quot;&gt;&amp;nbsp; &amp;nbsp; new_mm-&amp;gt;start_code = CODE_START_ADDRESS;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 244, 195);&quot;&gt;&amp;nbsp; &amp;nbsp; new_mm-&amp;gt;end_code = CODE_END_ADDRESS;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 244, 195);&quot;&gt;&amp;nbsp; &amp;nbsp; new_mm-&amp;gt;start_data = DATA_START_ADDRESS;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 244, 195);&quot;&gt;&amp;nbsp; &amp;nbsp; new_mm-&amp;gt;end_data = DATA_END_ADDRESS;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 244, 195);&quot;&gt;&amp;nbsp; &amp;nbsp; new_mm-&amp;gt;start_brk = BRK_START_ADDRESS;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 244, 195);&quot;&gt;&amp;nbsp; &amp;nbsp; new_mm-&amp;gt;brk = BRK_CURRENT_ADDRESS;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 244, 195);&quot;&gt;&amp;nbsp; &amp;nbsp; new_mm-&amp;gt;start_stack = STACK_START_ADDRESS;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 244, 195);&quot;&gt;&amp;nbsp; &amp;nbsp; new_mm-&amp;gt;mmap = NULL; // 初始化内存映射链表等等&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 244, 195);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 244, 195);&quot;&gt;&amp;nbsp; &amp;nbsp; // 将 mm_struct 关联到 task_struct&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 244, 195);&quot;&gt;&amp;nbsp; &amp;nbsp; new_task-&amp;gt;mm = new_mm;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 244, 195);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 244, 195);&quot;&gt;&amp;nbsp; &amp;nbsp; // 其他初始化操作...&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 244, 195);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 244, 195);&quot;&gt;&amp;nbsp; &amp;nbsp; return new_task;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 244, 195);&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 244, 195);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 244, 195);&quot;&gt;// 假设这是一个释放进程的函数&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 244, 195);&quot;&gt;void release_process(struct task_struct *task) {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 244, 195);&quot;&gt;&amp;nbsp; &amp;nbsp; // 释放相关的 mm_struct 和页表等等&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 244, 195);&quot;&gt;&amp;nbsp; &amp;nbsp; deallocate_page_directory(task-&amp;gt;mm-&amp;gt;pgd);&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 244, 195);&quot;&gt;&amp;nbsp; &amp;nbsp; deallocate_mm_struct(task-&amp;gt;mm);&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 244, 195);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 244, 195);&quot;&gt;&amp;nbsp; &amp;nbsp; // 释放 task_struct&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 244, 195);&quot;&gt;&amp;nbsp; &amp;nbsp; deallocate_task_struct(task);&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 244, 195);&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 244, 195);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 244, 195);&quot;&gt;// 假设这是一个访问进程虚拟内存的函数&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 244, 195);&quot;&gt;void access_process_memory(struct task_struct *task, unsigned long virtual_address) {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 244, 195);&quot;&gt;&amp;nbsp; &amp;nbsp; // 使用 task-&amp;gt;mm 来访问虚拟内存&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 244, 195);&quot;&gt;&amp;nbsp; &amp;nbsp; struct mm_struct *mm = task-&amp;gt;mm;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 244, 195);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 244, 195);&quot;&gt;&amp;nbsp; &amp;nbsp; // 在这里进行内存访问操作，如读取或写入&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 244, 195);&quot;&gt;&amp;nbsp; &amp;nbsp; // ...&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 244, 195);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 244, 195);&quot;&gt;&amp;nbsp; &amp;nbsp; // 通过页表映射等机制将虚拟地址转换为物理地址&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 244, 195);&quot;&gt;&amp;nbsp; &amp;nbsp; unsigned long physical_address = translate_virtual_to_physical(mm, virtual_address);&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 244, 195);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 244, 195);&quot;&gt;&amp;nbsp; &amp;nbsp; // 在这里进行实际的内存读写操作&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 244, 195);&quot;&gt;&amp;nbsp; &amp;nbsp; // ...&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 244, 195);&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="2570" y="565" width="1520" height="1150" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="sxAQl4Ctim2oKRVj0ZlB-122" target="sxAQl4Ctim2oKRVj0ZlB-66">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1900" y="3690" />
+              <mxPoint x="1900" y="2570" />
+              <mxPoint x="2240" y="2570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-122" value="&lt;div&gt;在 Linux 内核的 `task_struct` 结构体中，调度类型存放在 `sched_class` 成员中。这个成员指向一个包含调度算法函数指针的结构体，用于决定如何进行进程或线程的调度。不同的调度类别（如 CFS、实时调度等）会有不同的 `sched_class`。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;目前Linux实现了5种调度策略，stop、deadline、realtime、CFS、idle，分别使用sched_class来定义，并且通过next指针串联在一起。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;以下是一个简化的示例，展示了 `task_struct` 中的 `sched_class` 成员的作用：&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;```c&lt;/div&gt;&lt;div&gt;#include &amp;lt;linux/sched.h&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;struct task_struct {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; // 其他成员...&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; const struct sched_class *sched_class; // 调度类别&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; // 其他成员...&lt;/div&gt;&lt;div&gt;};&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;struct sched_class {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; void (*enqueue_task)(struct rq *rq, struct task_struct *p, int flags);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; void (*dequeue_task)(struct rq *rq, struct task_struct *p, int flags);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; // 其他调度相关的函数指针...&lt;/div&gt;&lt;div&gt;};&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;void enqueue_task_fair(struct rq *rq, struct task_struct *p, int flags) {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; // 实现公平调度算法的任务入队操作&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; // ...&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;void dequeue_task_fair(struct rq *rq, struct task_struct *p, int flags) {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; // 实现公平调度算法的任务出队操作&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; // ...&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;static const struct sched_class fair_sched_class = {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; .enqueue_task = enqueue_task_fair,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; .dequeue_task = dequeue_task_fair,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; // 其他函数指针初始化...&lt;/div&gt;&lt;div&gt;};&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;// 初始化进程或线程的调度类别&lt;/div&gt;&lt;div&gt;void init_task_schedule(struct task_struct *p) {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; p-&amp;gt;sched_class = &amp;amp;fair_sched_class; // 使用公平调度算法&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;// 调度算法主要由调度器根据当前任务的调度类别来调用对应的函数指针&lt;/div&gt;&lt;div&gt;void schedule(void) {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; // 获取当前运行的进程或线程&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; struct task_struct *curr = current;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; // 调度器根据 sched_class 来选择调度算法&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; curr-&amp;gt;sched_class-&amp;gt;enqueue_task(curr_rq, curr, flags);&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; // ... 其他调度操作 ...&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;div&gt;```&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;在上面的示例中，`sched_class` 成员指向一个包含调度算法函数指针的结构体。根据当前进程或线程的调度类别，调度器会调用相应的函数指针来执行任务的入队和出队操作，实现特定的调度算法。在实际的内核中，`sched_class` 是一个复杂的结构，涵盖了各种调度算法的实现。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="600" y="3370" width="1510" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="sxAQl4Ctim2oKRVj0ZlB-124" target="sxAQl4Ctim2oKRVj0ZlB-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sxAQl4Ctim2oKRVj0ZlB-124" value="&lt;div&gt;在 Linux 内核的 `task_struct` 结构体中，`stack` 字段存放了指向进程或线程内核态栈的指针。这个字段指向内核栈的起始地址，用于存储内核执行时的函数调用、中断处理和系统调用等操作的数据。每个进程或线程都有自己的内核态栈，用于处理内核级别的操作。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;这里提供一个简单的示例来说明 `stack` 字段的概念：&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;```c&lt;/div&gt;&lt;div&gt;struct task_struct {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; // 其他成员...&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; void *stack; // 指向内核态栈的指针&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; // 其他成员...&lt;/div&gt;&lt;div&gt;};&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;void kernel_function(void) {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; struct task_struct *current_task = current; // 获取当前进程或线程的 task_struct&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; // 在内核态栈上进行一些操作&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; // ...&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;void interrupt_handler(void) {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; struct task_struct *current_task = current; // 获取当前进程或线程的 task_struct&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; // 在内核态栈上处理中断&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; // ...&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;void syscall_handler(void) {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; struct task_struct *current_task = current; // 获取当前进程或线程的 task_struct&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; // 在内核态栈上处理系统调用&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; // ...&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;div&gt;```&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;在上面的示例中，`kernel_function`、`interrupt_handler` 和 `syscall_handler` 都是运行在内核态的函数，它们会在内核态栈上执行。内核态栈是在内核中用于存储内核代码执行过程中的调用栈信息的一块特殊区域，这些函数的局部变量、&lt;/div&gt;&lt;div&gt;函数调用和返回信息等都会保存在这个栈上。每个进程或线程都有自己的内核态栈，使得内核可以在不同的上下文中进行函数调用和处理。内核态栈的大小和管理在内核中是一个重要的问题，需要根据具体的需求进行配置和调整。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="40" y="2190" width="1420" height="520" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
